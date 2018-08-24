@@ -53,6 +53,7 @@ Please use space or comma to separate fields.
 **Steps**
 
 Step 1: Open NEXTA.
+![nexta](Images/1.png)
 
 Step 2: Select menu Tools-NGSIM Tools- **Active Space-Time View, and then load** trajectory file for Visualizing trajectory data
 
@@ -68,7 +69,7 @@ In the menu Tools-NASIM Tools:
 
 You can choose each lane number to see the trajectory;
 
-![nexta](Images/nexta4.png)
+
 
 1. You can show Vehicle ID, and you can use mouse wheeler to zoom in and zoom out the display in the certain portion.
 

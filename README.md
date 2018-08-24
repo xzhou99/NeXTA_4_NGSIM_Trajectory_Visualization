@@ -68,7 +68,7 @@ In the menu Tools-NASIM Tools:
 
 You can choose each lane number to see the trajectory;
 
-
+![nexta](Images/nexta4.png)
 
 1. You can show Vehicle ID, and you can use mouse wheeler to zoom in and zoom out the display in the certain portion.
 

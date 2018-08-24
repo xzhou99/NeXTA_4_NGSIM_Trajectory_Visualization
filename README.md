@@ -53,7 +53,8 @@ Please use space or comma to separate fields.
 **Steps**
 
 Step 1: Open NEXTA.
-![nexta](Images/1.png)
+
+![Image](https://github.com/xzhou99/NeXTA_4_Trajectory_Visualization/blob/master/1.PNG)
 
 Step 2: Select menu Tools-NGSIM Tools- **Active Space-Time View, and then load** trajectory file for Visualizing trajectory data
 

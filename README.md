@@ -58,7 +58,6 @@ Step 1: Open NEXTA.
 
 Step 2: Select menu Tools-NGSIM Tools- **Active Space-Time View, and then load** trajectory file for Visualizing trajectory data
 
-![Image](https://github.com/xzhou99/NeXTA_4_Trajectory_Visualization/blob/master/2.PNG)
 
 Step 3:
 

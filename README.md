@@ -58,7 +58,11 @@ Step 1: Open NEXTA.
 
 Step 2: Select menu Tools-NGSIM Tools- **Active Space-Time View, and then load** trajectory file for Visualizing trajectory data
 
+![Image](https://github.com/xzhou99/NeXTA_4_Trajectory_Visualization/blob/master/2.PNG)
+
 Step 3:
+
+![Image](https://github.com/xzhou99/NeXTA_4_Trajectory_Visualization/blob/master/3.PNG)
 
 
 
@@ -66,9 +70,15 @@ Main functions
 
 1. **Display trajectories for each lane.**
 
+![Image](https://github.com/xzhou99/NeXTA_4_Trajectory_Visualization/blob/master/4.PNG)
+
 In the menu Tools-NASIM Tools:
 
+![Image](https://github.com/xzhou99/NeXTA_4_Trajectory_Visualization/blob/master/4.PNG)
+
 You can choose each lane number to see the trajectory;
+
+![Image](https://github.com/xzhou99/NeXTA_4_Trajectory_Visualization/blob/master/5.PNG)
 
 
 
@@ -76,6 +86,12 @@ You can choose each lane number to see the trajectory;
 
 1. You can use the mouse to click and draw a line in the space-time plate, and the NeXTA will automatically calculate the flow, density, and speed values across the line
 
+![Image](https://github.com/xzhou99/NeXTA_4_Trajectory_Visualization/blob/master/6.PNG)
+
 1. You can show cumulative flow count and density
 
+![Image](https://github.com/xzhou99/NeXTA_4_Trajectory_Visualization/blob/master/7.PNG)
+
 You can show the space-time Density Contour
+
+![Image](https://github.com/xzhou99/NeXTA_4_Trajectory_Visualization/blob/master/8.PNG)
